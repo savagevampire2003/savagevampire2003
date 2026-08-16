@@ -41,12 +41,14 @@
 
 <br/>
 
-### 🏆 Trophies
+### 🐍 Contribution Snake
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-two-theta.vercel.app/?username=savagevampire2003&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savagevampire2003/savagevampire2003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/savagevampire2003/savagevampire2003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/savagevampire2003/savagevampire2003/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
@@ -67,4 +69,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-    
