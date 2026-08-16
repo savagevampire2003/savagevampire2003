@@ -28,14 +28,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://savagevampire2003.vercel.app/api?username=savagevampire2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-nine-sooty-33.vercel.app/api?username=savagevampire2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=savagevampire2003&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://savagevampire2003.vercel.app/api/top-langs/?username=savagevampire2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-nine-sooty-33.vercel.app/api/top-langs/?username=savagevampire2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=savagevampire2003&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="48%" />
 </div>
 
